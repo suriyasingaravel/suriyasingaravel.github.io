@@ -79,7 +79,7 @@ document.getElementById("resume-link-1").onclick = () => {
 
     window.open("https://drive.google.com/file/d/1T1cEYwz_BugzwyA8xJyYWsfpg098wT3a/view?usp=drive_link");
 }
-document.getElementById("resume-button-2").onclick = () => {
+document.getElementById("resume-link-2").onclick = () => {
 
     window.open("https://drive.google.com/file/d/1T1cEYwz_BugzwyA8xJyYWsfpg098wT3a/view?usp=drive_link");
 
