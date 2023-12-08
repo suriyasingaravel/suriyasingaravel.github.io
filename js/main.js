@@ -77,11 +77,11 @@ function transform_hamburger() {
 
 document.getElementById("resume-link-1").onclick = () => {
 
-    window.open("https://drive.google.com/file/d/1T1cEYwz_BugzwyA8xJyYWsfpg098wT3a/view?usp=drive_link");
+    window.open("https://drive.google.com/file/d/1NoAAcjg4IxSXeE_8z6-c0rqG8Ts7jTPG/view?usp=sharing");
 }
 document.getElementById("resume-link-2").onclick = () => {
 
-    window.open("https://drive.google.com/file/d/1T1cEYwz_BugzwyA8xJyYWsfpg098wT3a/view?usp=drive_link");
+    window.open("https://drive.google.com/file/d/1NoAAcjg4IxSXeE_8z6-c0rqG8Ts7jTPG/view?usp=sharing");
 
 }
 
