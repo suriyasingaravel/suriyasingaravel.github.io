@@ -75,6 +75,16 @@ function transform_hamburger() {
 //     location.assign("https://drive.google.com/file/d/1eEVq34eKvxAS1ljh9ZxagUdzklC5Q1JH/view");
 // }
 
+document.getElementById("resume-link-1").onclick = () => {
+
+    window.open("https://drive.google.com/file/d/1T1cEYwz_BugzwyA8xJyYWsfpg098wT3a/view?usp=drive_link");
+}
+document.getElementById("resume-link-2").onclick = () => {
+
+    window.open("https://drive.google.com/file/d/1T1cEYwz_BugzwyA8xJyYWsfpg098wT3a/view?usp=drive_link");
+
+}
+
 //! ================= Fixture =================
     window.addEventListener('load',()=>{
         // window.scrollTo(0, 0);
